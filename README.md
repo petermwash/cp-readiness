@@ -8,4 +8,21 @@ I love meeting new people, getting to know them and exchange ideas. I may seem a
 I have used materialize css the cdn version so you will need internet connection to be able to run the page.
 
 Here is the link to the link to the google imitation page 
-https://github.com/petermwash/cp-readiness/tree/HTML-CSS/google-page
+ https://github.com/petermwash/cp-readiness/tree/HTML-CSS/google-page
+
+
+##The flaskApp##
+
+This is just a simple app I made to learn and test flask.
+
+To run this app you may need the following requirements
+
+click==6.7
+Flask==0.12.2
+itsdangerous==0.24
+Jinja2==2.10
+MarkupSafe==1.0
+Werkzeug==0.14.1
+
+The app can be found on the link 
+https://github.com/petermwash/cp-readiness/tree/FLASK/flaskApp
