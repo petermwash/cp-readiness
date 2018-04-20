@@ -26,3 +26,7 @@ Werkzeug==0.14.1
 
 The app can be found on the link 
 https://github.com/petermwash/cp-readiness/tree/FLASK/flaskApp
+
+
+
+![alt text](https://raw.githubusercontent.com/petermwash/cp-readiness/master/img.png))
