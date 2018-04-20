@@ -29,4 +29,4 @@ https://github.com/petermwash/cp-readiness/tree/FLASK/flaskApp
 
 
 
-![alt text](https://raw.githubusercontent.com/petermwash/cp-readiness/master/img.png))
+![alt text](https://raw.githubusercontent.com/petermwash/cp-readiness/RESTful/img.png))
